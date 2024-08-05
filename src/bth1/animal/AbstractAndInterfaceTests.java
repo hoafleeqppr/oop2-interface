@@ -1,10 +1,12 @@
-import animal.Animal;
-import animal.Chicken;
-import animal.Tiger;
-import edible.Edible;
-import fruit.Fruit;
-import fruit.Orange;
-import fruit.Apple;
+package bth1.animal;
+
+import bth1.animal.Animal;
+import bth1.animal.Chicken;
+import bth1.animal.Tiger;
+import bth1.animal.edible.Edible;
+import bth1.animal.fruit.Fruit;
+import bth1.animal.fruit.Orange;
+import bth1.animal.fruit.Apple;
 
 
 public class AbstractAndInterfaceTests {

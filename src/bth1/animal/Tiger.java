@@ -1,4 +1,4 @@
-package animal;
+package bth1.animal;
 
 public class Tiger extends Animal {
     @Override
